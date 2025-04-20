@@ -1,0 +1,6 @@
+image:
+  componentName: interceptor
+  tag: latest
+service:
+  port: 3229
+  nodePort: 30084
